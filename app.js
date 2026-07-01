@@ -12,3 +12,10 @@ const genCompChoice = () => {
   const randIdx = Math.floor(Math.random() * 3);
   return options[randIdx];
 };
+
+choices.forEach((choice) => {
+  choice.addEventListener("click", () => {
+    const userChoice = choice.getAttribute("id");
+    playGame(userChoice);
+  });
+});
