@@ -8,3 +8,10 @@ A simple browser-based Rock Paper Scissors game where you play against the compu
 2. Click on Rock, Paper, or Scissors to make your move
 3. The computer picks a random move
 4. The result and updated scores are displayed instantly
+
+## Game Rules
+
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+- Same choice = Draw
