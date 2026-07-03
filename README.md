@@ -15,3 +15,13 @@ A simple browser-based Rock Paper Scissors game where you play against the compu
 - Scissors beats Paper
 - Paper beats Rock
 - Same choice = Draw
+
+```
+├── index.html       # Game UI
+├── app.js           # Game logic
+├── style.css        # Styles
+└── Images/
+    ├── rock.png
+    ├── paper.png
+    └── scissors.png
+```
