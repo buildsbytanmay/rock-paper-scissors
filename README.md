@@ -25,3 +25,7 @@ A simple browser-based Rock Paper Scissors game where you play against the compu
     ├── paper.png
     └── scissors.png
 ```
+
+## Tech Stack
+
+- HTML, CSS, JavaScript (Vanilla)
