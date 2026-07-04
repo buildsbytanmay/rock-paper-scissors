@@ -1,5 +1,7 @@
 # Rock Paper Scissors
 
+🔗 [Live Demo](https://buildsbytanmay.github.io/rock-paper-scissors/)
+
 A simple browser-based Rock Paper Scissors game where you play against the computer.
 
 ## How to Play
