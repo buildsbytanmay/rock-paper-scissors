@@ -1,33 +1,61 @@
-# Rock Paper Scissors
 
-🔗 [Live Demo](https://buildsbytanmay.github.io/rock-paper-scissors/)
+# ✊✋✌️ Rock Paper Scissors
 
-A simple browser-based Rock Paper Scissors game where you play against the computer.
+A simple browser-based **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**, where you compete against the computer.
 
-## How to Play
+🌐 **Live Demo:**  
+https://buildsbytanmay.github.io/rock-paper-scissors/
 
-1. Open `index.html` in a browser
-2. Click on Rock, Paper, or Scissors to make your move
-3. The computer picks a random move
-4. The result and updated scores are displayed instantly
+---
 
-## Game Rules
+## 🎮 How to Play
 
-- Rock beats Scissors
-- Scissors beats Paper
-- Paper beats Rock
-- Same choice = Draw
+1. Open `index.html` in your web browser.
+2. Select **Rock**, **Paper**, or **Scissors**.
+3. The computer randomly chooses its move.
+4. The winner is displayed instantly, along with the updated scores.
 
-```
-├── index.html       # Game UI
+---
+
+## 📜 Game Rules
+
+- 🪨 Rock defeats Scissors.
+- ✂️ Scissors defeat Paper.
+- 📄 Paper defeats Rock.
+- 🤝 If both players choose the same option, the round ends in a draw.
+
+---
+
+## 📁 Project Structure
+
+```text
+Rock Paper Scissors/
+├── index.html       # Game interface
 ├── app.js           # Game logic
-├── style.css        # Styles
+├── style.css        # Styling
 └── Images/
     ├── rock.png
     ├── paper.png
     └── scissors.png
 ```
 
-## Tech Stack
+---
 
-- HTML, CSS, JavaScript (Vanilla)
+## 🚀 Getting Started
+
+No installation or dependencies are required.
+
+1. Clone or download the repository.
+2. Open `index.html` in any modern web browser.
+3. Start playing!
+
+---
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Page structure |
+| CSS3 | Styling and layout |
+| JavaScript | Game logic and interactions |
+
